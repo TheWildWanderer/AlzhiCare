@@ -1,2 +1,2 @@
-# AlzhiCare
-My 1st App
+# AlzhiCare (1st)
+An android app for Alzheimer Patients
